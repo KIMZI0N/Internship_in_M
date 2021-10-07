@@ -1,3 +1,4 @@
+# python blastn.py [scaffoldsFiltered.fasta]
 # number of contigs / total contig bases / N50 / Longest / Shortest / Average length
 import sys
 

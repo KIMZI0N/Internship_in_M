@@ -1,3 +1,4 @@
+# python hamming.py [TT_Set_A.csv]
 import sys
 file = sys.argv[1]
 

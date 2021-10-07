@@ -1,3 +1,4 @@
+# python excel_all.py [vcf file]
 import xlsxwriter
 import sys
 

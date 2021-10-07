@@ -1,3 +1,4 @@
+# python sqs.py [r1.fastq] [r2.fastq]
 import sys
 
 read1 = sys.argv[1]

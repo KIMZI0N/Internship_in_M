@@ -1,3 +1,4 @@
+# python excel.py [vcf file] [description txt file]
 import xlsxwriter, sys
 
 # read vcf

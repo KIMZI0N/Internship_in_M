@@ -1,3 +1,4 @@
+# python merge.py [discription.txt] [sample1_count.txt] [sample2_count.txt] [sample3_count.txt] [sample4_count.txt]
 import sys
 
 discription = sys.argv[1]

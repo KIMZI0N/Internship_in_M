@@ -1,3 +1,4 @@
+# python count.py [r1.fastq] [r2.fastq]
 import sys, gzip
 
 read1 = sys.argv[1]
